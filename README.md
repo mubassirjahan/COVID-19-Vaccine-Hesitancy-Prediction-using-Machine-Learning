@@ -8,7 +8,7 @@ COVID-19 pandemic caused lots of losses, both human and economic. To bring the a
 
 
 
-## Contact
+## For Any Queries Contact
 
 Mubassir Jahan - [@mubassirjahan](https://twitter.com/mubassirjahan) - mubassir.jahan@outlook.com 
 
