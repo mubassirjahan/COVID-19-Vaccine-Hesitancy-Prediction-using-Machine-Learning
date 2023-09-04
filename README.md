@@ -8,6 +8,9 @@ COVID-19 pandemic caused lots of losses, both human and economic. To bring the a
 
 
 
+
+[NOTE: You can use the datasets and any other information from our paper but don't forget to set author credits]
+
 ## For Any Queries Contact
 
 Mubassir Jahan - [@mubassirjahan](https://twitter.com/mubassirjahan) - mubassir.jahan@outlook.com 
